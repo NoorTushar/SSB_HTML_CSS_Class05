@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.margin,
+.padding {
+  background-color: brown;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  color: white;
+  border: 5px solid black;
+}
+
+h3 {
+  margin-bottom: 20px;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.margin {
+  margin: 60px 40px 50px 70px;
+}
+
+.padding {
+  padding: 30px 20px 20px 40px;
+}
+
+.iframebox {
+  padding: 30px 0;
+  border: 1px solid black;
+}
+
+.youtube {
+  width: 560px;
+  height: 315px;
+}
+
+.map {
+  width: 100%;
+  height: 450px;
+}
